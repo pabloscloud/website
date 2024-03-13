@@ -53,6 +53,11 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
   # Deployment job
   deploy:
     environment:
