@@ -1,4 +1,4 @@
 ---
-title: "Hi there, this is Salinger theme."
-description: "A clean, minimalistic, mobile-first, blazing-fast, powerfull theme for Hugo framework made with Tailwind and DaisyUI. Please consider starring this project on Github."
+title: "Hi there, I'm Pablo :)"
+description: "Eager to learn and put my skills to the test by building an Android app during my apprenticeship. Connect with me!"
 ---

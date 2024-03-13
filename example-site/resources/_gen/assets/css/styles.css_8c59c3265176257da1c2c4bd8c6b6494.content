@@ -2143,9 +2143,6 @@ details.collapse summary::-webkit-details-marker {
 .h-4 {
   height: 1rem;
 }
-.h-6 {
-  height: 1.5rem;
-}
 .h-7 {
   height: 1.75rem;
 }
@@ -2167,9 +2164,6 @@ details.collapse summary::-webkit-details-marker {
 .w-40 {
   width: 10rem;
 }
-.w-6 {
-  width: 1.5rem;
-}
 .w-7 {
   width: 1.75rem;
 }
@@ -2184,9 +2178,6 @@ details.collapse summary::-webkit-details-marker {
 }
 .flex-1 {
   flex: 1 1 0%;
-}
-.flex-none {
-  flex: none;
 }
 .flex-col {
   flex-direction: column;
