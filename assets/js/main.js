@@ -6,7 +6,7 @@
 
 var svg = document.getElementById("svg");
 var dotMatrix = document.createElementNS(
-  "http://www.w3.org/2000/svg",
+  "https://www.w3.org/2000/svg",
   "circle"
 );
 var dots = [];

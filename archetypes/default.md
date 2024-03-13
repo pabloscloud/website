@@ -23,6 +23,6 @@ langs: [""]
 tools: [""]
 
 # link and link text of a website displayed in the single-page hero.
-link: "http://www.example.com"
+link: "https://www.example.com"
 linkText: "Example link"
 ---
