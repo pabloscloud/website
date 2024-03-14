@@ -1,4 +1,6 @@
+baseURL = 'https://pablos.cloud/website'
+contentDir = 'content'
 [module]
 [module.hugoVersion]
 extended = false
-min = "0.112.0"
+min = '0.112.0'
