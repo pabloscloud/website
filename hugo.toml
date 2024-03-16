@@ -33,12 +33,18 @@ description = "Salinger is a clean, minimalistic, mobile-first, blazing-fast, fa
 keywords = ["simple", "minimal", "clean", "fast", "blog", "portfolio", "responsive", "twemoji", "recursion", "section", "tailwind", "daisyui"]
 
 [params.footer]
-copy = 'John Doe. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Some rights reserved.</a>'
+copy = 'pabloscloud - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="link">Some rights reserved.</a>'
 
 [[params.social]]
-name = "github"
-url = "https://github.com/pabloscloud"
-icon = "fa-brands fa-github"
+name = "signal"
+url = "https://signal.me/#eu/jSWHk8j3EtfucOKH5wZhoHSePo-z4zlVY18nW0Yt42L3gn__Vb9Pt6ogswfIqpcW%22"
+icon = "fa-brands fa-signal-messenger"
+featured = true # true to be displayed in the home hero.
+
+[[params.social]]
+name = "threema"
+url = "https://threema.id/WPBCTXNW"
+icon = "fa-solid fa-comment"
 featured = true # true to be displayed in the home hero.
 
 [[params.social]]
@@ -48,15 +54,15 @@ icon = "fa-brands fa-mastodon"
 featured = true # true to be displayed in the home hero.
 
 [[params.social]]
-name = "monero"
-url = "monero"
-icon = "fa-brands fa-monero"
+name = "github"
+url = "https://github.com/pabloscloud"
+icon = "fa-brands fa-github"
 featured = true # true to be displayed in the home hero.
 
 [[params.social]]
-name = "signal"
-url = "https://signal.me/#eu/jSWHk8j3EtfucOKH5wZhoHSePo-z4zlVY18nW0Yt42L3gn__Vb9Pt6ogswfIqpcW%22"
-icon = "fa-brands fa-signal-messenger"
+name = "monero"
+url = "monero"
+icon = "fa-brands fa-monero"
 featured = true # true to be displayed in the home hero.
 
 [[params.social]]
