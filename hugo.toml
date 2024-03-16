@@ -6,7 +6,7 @@ title = "pabloscloud"
 
 author = "pabloscloud"
 twemoji = true
-text404 = "Since the page you were looking for seems like doesn't exist, we <strong>strongly</strong> suggest you to better investigate the URL and/or go back to the <a href=\"/\">home</a>."
+text404 = '<iframe style="width: 100%; height: 50vh;" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1&controls=0&disablekb=1&loop=1&rel=0" title="Rick Astley - Never Gonna Give You Up" frameborder="0" allow="autoplay"></iframe>'
 
 DateFormat = "Jan 2006"
 
