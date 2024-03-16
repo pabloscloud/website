@@ -31,7 +31,7 @@ Firstly you'll need to create a keypair for yourself. And later on we'll import 
 5. Click Generate Key
 
 
-You'll also need a program that manages your keys. For macOS there is [GPG Suite](https://gpgtools.org)and for Windows you'd need [Gpg4win](https://gpg4win.de).
+You'll also need a program that manages your keys. For macOS there is [GPG Suite](https://gpgtools.org) and for Windows you'd need [Gpg4win](https://gpg4win.de).
 
 Open my public key with the desired program. You can find it here: [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/C512E45E7235A6904C4A76844165BE9C6E5DC8FF).
 
