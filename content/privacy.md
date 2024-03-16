@@ -1,19 +1,49 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax. 🏗️"
+author = "pabloscloud"
+title = "Monero"
+date = "2024-03-12"
+lastmod = "2024-03-14"
+description = "If for whatever reason you'd like to send me some money, here are my monero details."
 tags = [
     "markdown",
     "css",
     "html",
 ]
-categories = [
-    "syntax",
-]
-featured = true
+categories = []
+featured = false
 
 +++
+
+Want to make a Donation? Thanks!
+
+Scan the qr-code below with your phone or copy and paste the wallets address :)
+
+4AdhS6sQHAE4kkcuZDvSou9zjxHZU2mSicS4w8njD6naSmDo5xSJ3Ns97dTcy672gR2abdP5P3Ed5Kp8VnbUGCtuFbf8Ksi
+
+## What is Monero?
+
+> Monero is a cryptocurrency which uses a blockchain with privacy-enhancing technologies to obfuscate transactions to achieve anonymity and fungibility. Observers cannot decipher addresses trading Monero, transaction amounts, address balances, or transaction histories.<br>
+> — <cite>Wikipedia[^1]</cite>
+
+[^1]: The above quote is from [Wikipedia](https://en.wikipedia.org/w/index.php?title=Monero&oldid=1149513222), April 19, 2023.
+
+I use it because you don’t need to know my bank information and I don’t need or want to know yours either.
+
+## What do you get as a return?
+
+Nothing at all. By making a donation, you make me smile, but <b>you don’t get anything</b> back in return.
+
+## Where do you donate?
+
+As with many cryptocurrency, you can donate using any client you want, but I recommend using the official client which is available to download on [getmonero.org/downloads](https://getmonero.org/downloads).
+
+Please be aware that cryptocurrencies are known to be volatile, and their values can fluctuate significantly. This means that your donation may be worth more or less than when you sent it, depending on market conditions. Please consider the risks associated with investing in cryptocurrencies before making a donation. I am not responsible for any losses resulting from the volatility of cryptocurrencies.
+
+## When will the money be used?
+
+Please note that I will use any donations I receive at my discretion. This may include investing in domains, hosting or any other expenses related to my projects or using the funds for personal expenses. I may also choose to save the funds for later use. Please understand that by donating, you are giving me the freedom to use the funds in any way. I appreciate your support a lot!
+
+
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
@@ -43,13 +73,6 @@ The blockquote element represents content that is quoted from another source, op
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 > **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ## Tables
 
@@ -127,12 +150,12 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 #### Nested list
 
 * Fruit
-  * Apple
-  * Orange
-  * Banana
+    * Apple
+    * Orange
+    * Banana
 * Dairy
-  * Milk
-  * Cheese
+    * Milk
+    * Cheese
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
