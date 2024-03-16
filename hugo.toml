@@ -5,7 +5,7 @@ title = "pabloscloud"
 [params]
 
 author = "pabloscloud"
-twemoji = true
+twemoji = false
 text404 = '<iframe style="width: 100%; height: 50vh;" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1&controls=0&disablekb=1&loop=1&rel=0" title="Rick Astley - Never Gonna Give You Up" frameborder="0" allow="autoplay"></iframe>'
 
 DateFormat = "Jan 2006"
