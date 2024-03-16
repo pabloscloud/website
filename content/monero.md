@@ -2,6 +2,7 @@
 author = "pabloscloud"
 title = "Monero"
 date = "2024-03-12"
+lastmod = "2024-03-14"
 description = "If for whatever reason you'd like to send me some money, here are my monero details."
 tags = [
     "markdown",
